@@ -19,5 +19,5 @@ while more == "y": #compare user prompt saved in more variable with "y" is true 
             break# is more equal to "n" break used to end while loop
         else:
             more = input("Please enter a y or n: ")# prmplt used if "y" or "n" not value in more
-# addreses list is printed    
+# addreses list is printed on the screen    
 print(addresses)
