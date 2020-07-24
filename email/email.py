@@ -3,6 +3,8 @@
 This is a script that prompts the user to enter email addresses which adds them to
 a list and prints the list.
 
+I think the script could be used to sign people up to recieve advertising emails from a company. 
+
 """
 
 #sets variable addresses
