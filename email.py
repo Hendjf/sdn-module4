@@ -4,6 +4,7 @@ This is a script that prompts the user to enter email addresses which adds them 
 a list and prints the list.
 
 """
+"""The files add email address to a list that can be pulled and viewed"""
 
 
 addresses = []
